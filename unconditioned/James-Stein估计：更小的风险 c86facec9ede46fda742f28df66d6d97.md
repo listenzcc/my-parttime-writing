@@ -110,7 +110,7 @@ $$
 $$
 E_{\theta}\begin{bmatrix}
 \frac{(\theta - X)^TX}{\vert X \vert^2}
-\end{bmatrix} = 
+\end{bmatrix} =
 \sum_{i=1}^{n}E_{\theta}\begin{bmatrix}(\theta_i - X_i)
 \frac{X_i}{\vert X \vert^2}
 \end{bmatrix}
