@@ -2,7 +2,7 @@
 
 Title: James-Stein估计：MLE及其风险
 Date: 2024-03-28
-Keywords: Statistic, Estimation
+Keywords: Statistic, Estimation, James-Stein
 
 ---
 

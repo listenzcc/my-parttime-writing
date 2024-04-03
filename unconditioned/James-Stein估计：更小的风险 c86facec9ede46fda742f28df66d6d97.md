@@ -2,7 +2,7 @@
 
 Title: James-Stein估计：更小的风险
 Date: 2024-3-30
-Keywords: Statistic, Estimation
+Keywords: Statistic, Estimation, James-Stein
 
 ---
 
