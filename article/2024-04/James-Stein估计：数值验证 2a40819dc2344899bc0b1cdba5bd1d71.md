@@ -1,9 +1,7 @@
 # James-Stein估计：数值验证
 
 Title: James-Stein估计：数据验证
-
 Date: 2024-4-1
-
 Keywords: Statistic, Estimation, James-Stein, Python
 
 ---
